@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add readme.txt new 1
+add readme.txt new 2
